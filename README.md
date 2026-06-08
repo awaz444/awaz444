@@ -3,8 +3,9 @@
 
 ## about me
 - co-founder and ceo @ www.paltuu.pk
-- creator of www.trackboxd.com
-- swe @ https://synkflow.cloud
+- creator/founder @ www.trackboxd.com
+- cfo/coo @ saharaqueue.com
+- pm/swe @ https://synkflow.cloud
 - head of product engineering @ www.parchipakistan.com
 - comp sci senior at FAST NUCES KHI
 
