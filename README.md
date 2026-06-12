@@ -2,12 +2,12 @@
 # I'm Aawaiz Ali! 
 
 ## about me
+- BSCS 2026 - FAST NUCES KHI
 - co-founder and ceo @ www.paltuu.pk
 - creator/founder @ www.trackboxd.com
 - cfo/coo @ www.saharaqueue.com
 - pm/swe @ https://synkflow.cloud
 - head of product engineering @ www.parchipakistan.com
-- comp sci senior at FAST NUCES KHI
 
 ## connect
 - linkedIn: https://linkedin.com/in/aawaiz
