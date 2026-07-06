@@ -10,7 +10,7 @@
 
 ## connect
 - linkedIn: https://linkedin.com/in/aawaiz
-- email: aawaiz@paltuu.pk , aawaiz@synkflow.cloud , aawaizali8@gmail.com
+- email: aawaizali8@gmail.com, aawaiz@paltuu.pk
 
 ## stack
 - react, next, redux
