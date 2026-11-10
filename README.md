@@ -9,10 +9,3 @@
 ## connect
 - linkedIn: https://linkedin.com/in/aawaiz
 - email: aawaizali8@gmail.com, aawaiz@paltuu.pk
-
-## stack
-- react, next, redux
-- react native, flutter
-- node, express, nest
-- ui/ix
-- system design
